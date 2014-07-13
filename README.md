@@ -1,4 +1,1 @@
-myFirstRepo
-===========
-
-My First Git Repository
+my First Git Repository
